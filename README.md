@@ -1,8 +1,8 @@
 # Report on FIFA Players' Market Value Prediction
 
-Introduction: This Report focuses on the Analysis of dataset which contains attributes of Football Players. Our goal is to develop a Predictive model for the Market value of Players using the attributes available in the Dataset. Our dataset includes attributes like Overall rating, height, weight, etc. of 17,954 football players.
+Introduction: This Report focuses on the Analysis of dataset which contains attributes of Football Players. The goal is to develop a Predictive model for the Market value of Players using the attributes available in the Dataset. Dataset includes attributes like Overall rating, height, weight, etc. of 17,954 football players.
 
-Data Overview: Entries & Features: The dataset comprises 17,954 entries and 51 features. Key Features: Includes Overall Rating, Age, Positions, Skill Ratings, financial information, etc. Target Variables: Our Main focus is on Value_Euro, representing each player's Market Value.
+Data Overview: Entries & Features: The dataset comprises 17,954 entries and 51 features. Key Features: Includes Overall Rating, Age, Positions, Skill Ratings, financial information, etc. Target Variables: The Main focus is on Value_Euro, representing each player's Market Value.
 
 Data Cleaning & Preprocessing: Outlier Analysis: Almost 10,000 rows have been removed as a part of Outlier Analysis. Handling Missing Values: Missing values in Value_Euro have been imputed using Median values.
 
